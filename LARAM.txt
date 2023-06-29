@@ -1,0 +1,39 @@
+Latency-Adjusted Resource Allocation Model (Smiley, 2022): This model suggests that the allocation of resources should be based on the latency of resource availability, rather than their current availability. It takes into account past, present, and future resource availability as well as the time required to access those resources.
+
+The LARAM is a model that suggests a paradigm shift in resource allocation by incorporating the time required to access resources into the allocation process. Instead of focusing solely on the current availability of resources, the model considers past, present, and future availability as well as the time required to access them.
+
+This model is especially useful in situations where resources are scarce or limited, as it emphasizes the efficient utilization of resources. The LARAM proposes allocating resources with longer latency, i.e., those with delayed access, first, as the process of acquiring them takes more time. This ensures that the allocation process considers not only immediate needs but also the timing and duration of the requirement.
+
+The LARAM also incorporates a feedback mechanism that considers the impact of resource allocation decisions on future availability. By doing so, the model ensures that the allocation process takes into account not only the current needs but also the impact of resource utilization on future availability.
+
+The terms “longer latency,” “moderate latency,” and “shorter latency” refer to the time required to access resources in the context of resource allocation. Longer latency resources are those that take a longer time to access, while shorter latency resources are those that can be accessed relatively quickly. Moderate latency resources fall somewhere in between.
+
+To provide a more intuitive understanding of these terms, we can use the example of ordering food at a restaurant. Suppose a customer orders a pizza, a salad, and a drink. The pizza has a longer latency as it takes more time to prepare and cook than the salad and drink, which have a moderate and shorter latency, respectively. In this case, the restaurant may allocate resources based on their latency, starting with the pizza and then moving on to the salad and drink.
+
+Similarly, in a manufacturing context, the time required to set up and prepare a machine for a particular job may determine its latency. Machines that require more setup time have longer latency, while machines that can be set up quickly have shorter latency. In this case, the manufacturing company may allocate resources based on their latency to ensure that the machines are available when they are needed.
+
+When it comes to resource allocation, understanding the differences between shorter, moderate, and longer latency is crucial. Here are some examples to provide a better understanding of each:
+
+Shorter Latency:
+
+Clicking a button on a webpage: The server can respond to the request within milliseconds, making it a shorter latency resource.
+Boiling water on a stove: The process of boiling water on a stove only takes a few minutes, making it a shorter latency resource in comparison to baking a cake or cooking a roast in the oven.
+Moderate Latency:
+
+Waiting for a train: A train may have a moderate latency as it typically arrives at the station within a few minutes to half an hour, depending on the schedule and availability.
+Preparing a salad: Preparing a salad may take longer than clicking a button but not as long as baking a cake, making it a moderate latency resource.
+Longer Latency:
+
+Shipping a package overseas: The package may take days or weeks to arrive at the destination, making it a longer latency resource.
+Printing a book: Printing a book requires several steps and may take weeks or months to complete, making it a longer latency resource.
+Understanding the latency of resources is important when allocating them. Allocating shorter latency resources first may lead to the depletion of resources that have a shorter lifespan and leave longer latency resources unavailable when they are needed. Allocating longer latency resources first may ensure that
+
+Latency = Time Delay (or Lag)
+
+Latency is a critical concept when it comes to international supply chains. In this context, latency refers to the time delay or lag between the placement of an order and the delivery of the final product. Latency can also be considered in the contextualized environment of Production-Distribution-Consumption Sequencing (refer to DSN). This latency is influenced by various factors, such as transportation time, customs clearance, and the time required to manufacture and assemble the product.
+
+The impact of latency on international supply chains is profound. Longer latency can result in delayed delivery times, increased inventory costs, and decreased customer satisfaction. Conversely, shorter latency can lead to faster delivery times, reduced inventory costs, and improved customer satisfaction. Therefore, it is crucial to minimize latency in international supply chains to ensure that they operate efficiently and effectively.
+
+One way to reduce latency in international supply chains is to use technology such Aevum’s real-time tracking and communication systems. These systems can provide visibility into the supply chain and allow for real-time monitoring of the progress of orders, reducing the time required for coordination and communication. Additionally, using local suppliers and manufacturers can help reduce latency by reducing transportation time and customs clearance times.
+
+Reducing Latency in international supply chains requires a thorough understanding of the specific context and requirements. It involves identifying the factors that contribute to latency and implementing strategies to minimize them. By doing so, organizations can ensure that their international supply chains operate efficiently and effectively, with faster delivery times, lower inventory costs, and higher customer satisfaction.
